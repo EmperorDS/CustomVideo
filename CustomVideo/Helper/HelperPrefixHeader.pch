@@ -1,0 +1,20 @@
+//
+//  HelperPrefixHeader.pch
+//  Helper
+//
+//  Created by qianfeng on 15/10/14.
+//  Copyright (c) 2015年 KaiQiangDong. All rights reserved.
+//
+
+#ifndef Helper_HelperPrefixHeader_pch
+#define Helper_HelperPrefixHeader_pch
+
+#import "Factory.h"
+#import "MyHelper.h"
+#import "UIView+Addition.h"
+#import "BaseViewController.h"
+
+extern BOOL islo;
+
+
+#endif
